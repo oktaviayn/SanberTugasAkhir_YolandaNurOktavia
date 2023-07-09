@@ -1,4 +1,4 @@
-# Tugas Akhir - Marcelino Oktaviansyah
+# Tugas Akhir - Yolanda Nur Oktavia
 
 ## Cypress-Typescript Automation Testing
 
