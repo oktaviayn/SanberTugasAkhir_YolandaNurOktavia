@@ -6,7 +6,7 @@ This repository contains automated tests using Cypress and TypeScript for the Sw
 
 ### Test Scenarios and Test Steps
 
-The document containing the test scenarios and test steps for the login scenario can be found [here](https://docs.google.com/spreadsheets/d/1uCETyaUUMoPQMLnD6JN03eqQEVCyfA5kr9ua86aClXE/edit?usp=sharing). For other scenarios, please refer to [this document](https://docs.google.com/spreadsheets/d/1Mxeo4Mg0QI_AGa9XWTMd-pnQ3b0ZxmJOaz7Pv8BheHM/edit?usp=sharing).
+The document containing the test scenarios and test steps for the login scenario can be found [here](https://docs.google.com/spreadsheets/d/1Rj5NTGNtJS4T_aTre41_K08rg2FMgJK56BljkcdxWfg/edit?usp=sharing). For other scenarios, please refer to [this document](https://docs.google.com/spreadsheets/d/1NXk20-As1u-TsK-a3GG-Qdit9UfpVefrIR2N3aiv_ZI/edit?usp=sharing).
 
 ### Video Recordings
 
@@ -16,7 +16,7 @@ Video recordings of the testing process for the "Checkout Process" scenario can 
 
 ### Screenshots
 
-Screenshots of the test results for all scenarios can be found [here](https://github.com/marcelino230/Tugas_Akhir_Marcelino_TypeScript/blob/main/ss_hasil.png).
+Screenshots of the test results for all scenarios can be found [here](https://github.com/oktaviayn/SanberTugasAkhir_YolandaNurOktavia/blob/main/ss_hasil.png).
 
 ### Prerequisites
 
